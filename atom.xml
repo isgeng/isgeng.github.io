@@ -6,7 +6,7 @@
   <link href="https://isgeng.github.io/atom.xml" rel="self"/>
   
   <link href="https://isgeng.github.io/"/>
-  <updated>2021-08-28T05:34:01.693Z</updated>
+  <updated>2022-10-18T03:17:09.025Z</updated>
   <id>https://isgeng.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>物联网基础</title>
+    <link href="https://isgeng.github.io/2022/10/18/wu-lian-wang-ji-chu/"/>
+    <id>https://isgeng.github.io/2022/10/18/wu-lian-wang-ji-chu/</id>
+    <published>2022-10-18T03:15:38.000Z</published>
+    <updated>2022-10-18T03:17:09.025Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;第一章-物联网又火了&quot;&gt;&lt;a href=&quot;#第一章-物联网又火了&quot; class=&quot;headerlink&quot; title=&quot;第一章 物联网又火了&quot;&gt;&lt;/a&gt;第一章</summary>
+        
+      
+    
+    
+    
+    
+    <category term="iot" scheme="https://isgeng.github.io/tags/iot/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
