@@ -6,7 +6,7 @@
   <link href="https://isgeng.github.io/atom.xml" rel="self"/>
   
   <link href="https://isgeng.github.io/"/>
-  <updated>2022-10-18T11:03:42.756Z</updated>
+  <updated>2022-11-04T02:34:11.777Z</updated>
   <id>https://isgeng.github.io/</id>
   
   <author>
@@ -17,15 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>物联网基础</title>
-    <link href="https://isgeng.github.io/2022/10/18/wu-lian-wang-ji-chu/"/>
-    <id>https://isgeng.github.io/2022/10/18/wu-lian-wang-ji-chu/</id>
-    <published>2022-10-18T11:03:42.000Z</published>
-    <updated>2022-10-18T11:03:42.756Z</updated>
+    <title>大话物联网</title>
+    <link href="https://isgeng.github.io/2022/11/04/da-hua-wu-lian-wang/"/>
+    <id>https://isgeng.github.io/2022/11/04/da-hua-wu-lian-wang/</id>
+    <published>2022-11-04T02:33:47.000Z</published>
+    <updated>2022-11-04T02:34:11.777Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;大话物联网&quot;&gt;&lt;a href=&quot;#大话物联网&quot; class=&quot;headerlink&quot; title=&quot;大话物联网&quot;&gt;&lt;/a&gt;大话物联网&lt;/h1&gt;&lt;h2 id=&quot;第一章-物联网又火了&quot;&gt;&lt;a href=&quot;#第一章-物联网又火了&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
     
+    <category term="iot" scheme="https://isgeng.github.io/tags/iot/"/>
     
   </entry>
   
